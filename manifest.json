@@ -1,10 +1,10 @@
 {
-	"id": "editing-mode-hotkey",
-	"name": "Editing Mode Hotkey",
-	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "Adds a command and hotkey to toggle the default editing mode (between Live Preview and Source)",
-	"author": "Signynt",
-	"authorUrl": "https://github.com/Signynt",
-	"isDesktopOnly": false
+    "id": "editing-mode-hotkey",
+    "name": "Editing Mode Hotkey",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Adds a command and hotkey to toggle the default editing mode (between Reading and Source modes)",
+    "author": "JakErdy",
+    "authorUrl": "https://github.com/jakerdy/obsidian-source-reading-switcher",
+    "isDesktopOnly": false
 }
